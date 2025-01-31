@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 We respect your privacy and are committed to protecting your personal data. This Privacy Policy ("Policy") describes how we collect, use, maintain, protect, and disclose your information when you use **Crypto Quest** ("Application" or "Service") and its associated features and services (collectively, "Services"). It also explains the choices available to you regarding our use of your data and how you can access and update it.
 
