@@ -82,5 +82,5 @@ We may update this Policy from time to time to reflect changes in our Services o
 ### **10. Contact Us**
 For questions about this Policy or data-related requests, please reach out to us at:
 
-_Email: hello@cqp.bet_
+Email: <hello@cqp.bet>
 
