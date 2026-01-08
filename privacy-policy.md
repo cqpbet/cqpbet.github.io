@@ -10,7 +10,6 @@ These Services include, but are not limited to:
 
 By accessing or using any of the Services, you agree to the terms of this Policy. If you do not agree with this Policy, please discontinue use of the Services immediately.
 
----
 
 ## 1. Information We Collect
 Depending on the Service you use, we may collect the following categories of information:
@@ -34,7 +33,6 @@ If you connect a Service via third‑party platforms (such as Telegram, wallets,
 
 We do **not** intentionally collect unnecessary personal information.
 
----
 
 ## 2. How We Use Your Information
 We use collected information to:
@@ -48,7 +46,6 @@ We use collected information to:
 
 We **do not sell** personal data and **do not share it for third‑party marketing purposes**.
 
----
 
 ## 3. Data Sharing and Third Parties
 We may share limited data only in the following cases:
@@ -59,7 +56,6 @@ We may share limited data only in the following cases:
 
 All third‑party access is limited to what is strictly necessary.
 
----
 
 ## 4. Data Retention
 We retain personal data only for as long as necessary to:
@@ -69,12 +65,10 @@ We retain personal data only for as long as necessary to:
 
 After this period, data is deleted or anonymized. Anonymized data may be retained indefinitely for analytics and system improvement purposes.
 
----
 
 ## 5. International Data Processing
 Our infrastructure and service providers may be located in different countries. Your data may therefore be processed internationally. We take reasonable measures to ensure adequate data protection regardless of processing location.
 
----
 
 ## 6. Your Rights
 Depending on your jurisdiction, you may have the right to:
@@ -85,22 +79,18 @@ Depending on your jurisdiction, you may have the right to:
 
 Requests can be made using the contact details below. Some data may not be removable if required for security, fraud prevention, or legal compliance.
 
----
 
 ## 7. Security
 We apply technical and organizational measures to protect data, including access controls, encryption where appropriate, and monitoring for suspicious activity. However, no system can be guaranteed to be completely secure.
 
----
 
 ## 8. Children’s Privacy
 The Services are **not intended for individuals under the age of 18**. We do not knowingly collect personal data from minors. If such data is discovered, it will be removed upon request.
 
----
 
 ## 9. Policy Updates
 This Policy may be updated periodically. The latest version will always be available through our Services. Continued use of the Services after changes become effective constitutes acceptance of the updated Policy.
 
----
 
 ## 10. Contact Information
 For privacy‑related questions, requests, or concerns, please contact us:
